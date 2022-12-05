@@ -8,14 +8,14 @@
 > -   [run](#run)
 > -   [figures](#figures)
 
-## simulation {#simulation}
+## simulation
 
 -   **code**: download [SRR493366](https://www.ncbi.nlm.nih.gov/sra/?term=SRR493366), mapping to the genome, and generate simulated fastq files.
 -   **files**: files required when simulating fastq files.
 -   **profiles**: the output directory of simulated fastq files.
 -   \***/single_cell**: code for single-cell data simulation.
 
-## run {#run}
+## run
 
 -   `benchmark.R` for execution of conventional workflows.
 -   `benchmark_j.R` for execution of novel junction workflows.
@@ -23,7 +23,7 @@
 -   `benchmark_f.R` for execution of transcript filtering workflows.
 -   \***/single_cell**: code for single-cell data workflows.
 
-## figures {#figures}
+## figures
 
 -   **tidy**: code for result tidy.
 -   **plot**: code for figure generation.
