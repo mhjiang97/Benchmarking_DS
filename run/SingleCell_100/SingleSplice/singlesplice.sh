@@ -1,0 +1,1 @@
+bin/diffsplice -o ~/scsplice/res/ -m full -s ~/scsplice/sample_config.txt ~/scsplice/sample_data.txt
