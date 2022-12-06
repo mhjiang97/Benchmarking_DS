@@ -1,0 +1,24 @@
+working_directory: ~/Micro/MicroExonator
+Genome_fasta : ~/doc/reference/fa/GRCh38.primary_assembly.genome.fa
+GT_AG_U2_5 : NA
+GT_AG_U2_3 : NA
+paired_samples : ~/Micro/MicroExonator/pair
+conservation_bigwig : ~/Micro/MicroExonator/hg38.phastCons470way.bw
+min_number_files_detected : 4
+whippet_bin_folder : ~/Micro/Whippet.jl/bin
+julia : ~/Micro/julia-1.6.2/bin/julia
+Gene_anontation_GTF : ~/doc/reference/gtf/gencode.v32.annotation.primary_assembly.protein_coding2.gtf
+Single_Cell : T
+cluster_metadata : ~/Micro/MicroExonator/clustermeta.txt
+n_pseudo_bulks : 50
+cluster_name : cell_type
+file_basename : sample
+cdf_t : 0.8
+min_p_mean : 0.95
+min_delta : 0.00
+min_rep : 25
+run_metadata : ~/Micro/MicroExonator/run_metadata.tsv
+min_number_of_reads_single_cell : 5
+min_number_of_samples_single_cell : 1
+seed : 123
+skip_mixture_model_filter : T
