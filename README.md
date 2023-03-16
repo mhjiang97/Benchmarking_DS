@@ -1,12 +1,20 @@
 # Code for benchmarking differential splicing tools at the event level
 
+<font size="2"> _Public repository containing code for reproducing the research_ </font>
+
 ------------------------------------------------------------------------
 
 ## Table of Contents
 
+> -   [publication](#publication)
 > -   [simulation](#simulation)
 > -   [run](#run)
 > -   [figures](#figures)
+
+
+## pubication
+
+[**A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level**](https://doi.org/10.1093/bib/bbad121) by Jiang et al.
 
 ## simulation
 
