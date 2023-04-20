@@ -1,29 +1,29 @@
-# Code for benchmarking differential splicing tools at the event level
+# Code for Benchmarking Differential Splicing Tools at the Event Level
 
-<font size="2"> _Public repository containing code for reproducing the research_ </font>
+<font size="2"> _public repository containing code for reproducing the published results_ </font>
 
 ------------------------------------------------------------------------
 
 ## Table of Contents
 
-> -   [publication](#publication)
-> -   [simulation](#simulation)
-> -   [run](#run)
-> -   [figures](#figures)
+> -   [Publication](#publication)
+> -   [Simulation](#simulation)
+> -   [Run](#run)
+> -   [Figures](#figures)
 
 
-## pubication
+## Pubication
 
 [**A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level**](https://doi.org/10.1093/bib/bbad121) by Jiang et al.
 
-## simulation
+## Simulation
 
 -   **code**: download [SRR493366](https://www.ncbi.nlm.nih.gov/sra/?term=SRR493366), mapping to the genome, and generate simulated fastq files.
 -   **files**: files required when simulating fastq files.
 -   **profiles**: the output directory of simulated fastq files.
 -   \***/single_cell**: code for single-cell data simulation.
 
-## run
+## Run
 
 -   `benchmark.R` for execution of conventional workflows.
 -   `benchmark_j.R` for execution of novel junction workflows.
@@ -31,7 +31,7 @@
 -   `benchmark_f.R` for execution of transcript filtering workflows.
 -   \***/single_cell**: code for single-cell data workflows.
 
-## figures
+## Figures
 
 -   **tidy**: code for result tidy.
 -   **plot**: code for figure generation.
