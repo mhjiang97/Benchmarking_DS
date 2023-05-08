@@ -18,9 +18,9 @@
 
 ## Simulation
 
--   **code**: download [SRR493366](https://www.ncbi.nlm.nih.gov/sra/?term=SRR493366), mapping to the genome, and generate simulated fastq files.
+-   **code**: download [SRR493366](https://www.ncbi.nlm.nih.gov/sra/?term=SRR493366), map to the human genome, and generate simulated fastq files.
 -   **files**: files required when simulating fastq files.
--   **profiles**: the output directory of simulated fastq files.
+-   **profiles**: output directories of simulated fastq files.
 -   \***/single_cell**: code for single-cell data simulation.
 
 ## Run
@@ -33,7 +33,7 @@
 
 ## Figures
 
--   **tidy**: code for result tidy.
--   **plot**: code for figure generation.
+-   **tidy**: code for tidying results.
+-   **plot**: code for generating figures.
 -   **rds**: RDS files of each result.
 -   \***/single_cell**: code and RDS files for single-cell tool benchmarking.
