@@ -14,7 +14,7 @@
 
 ## Publication
 
-[**A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level**](https://doi.org/10.1093/bib/bbad121) by Jiang et al.
+[**A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level**](https://doi.org/10.1093/bib/bbad121) by Jiang _et al_.
 
 ## Simulation
 
